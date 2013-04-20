@@ -4,3 +4,4 @@ dist
 .rvmrc
 .ruby-version
 *.rbc
+.idea
